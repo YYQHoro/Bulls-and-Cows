@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{cbd5890b-5ad3-4aef-810d-83437acaf0ed}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{fe2cd937-9dc1-43b0-8b4d-0131554cd5e9}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{9249fc4a-debc-41ae-992a-1df2183ad10c}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Animation.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Console.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Level.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MusicManager.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Net.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Num.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Ranking.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Animation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Console.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Level.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MusicManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Net.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Num.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Ranking.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

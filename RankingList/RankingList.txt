@@ -1,0 +1,8 @@
+		╔═══════════════════════════════════╗
+		║			    猜数字游戏 排行榜		              	║
+		║						      	              	║
+		║▁▂▃▄▅▆▇█████████████████████▇▆▅▄▃▂▁║
+		╠═══════════╦═══════════╦═══════════╣
+		║	简单难度     	║      普通难度      	║       大神难度       ║
+		║场  次	回合数 	║场  次	回合数	║场   次       回合数  ║
+		╠═══════════╬═══════════╬═══════════╣
